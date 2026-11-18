@@ -1,2 +1,3 @@
 # find-out-your-biological-age
 what is your age today
+Features of this App:🔬 Analysis Path (as specified):Top-left corner → starting pointTip of the nose → facial center analysisCentre of forehead (slight left) → wrinkle/aging scanTop-right corner → right side analysisBottom-right → jawline scanBottom-left → complete perimeterBack to start → full facial map complete🧮 Equation Applied:12x - y - t - u - j - q - s - t - u - j - k - l - t - u - m - n - o - t - j - k - u - t.ool = age - timeWith davidgomadza protocol: -20 years anti-aging correction applied.📊 Factors Analyzed:Activity level, sleep, diet qualitySmoking & alcohol habitsStress, sun exposure, hydrationSkincare routine & mental wellnessForehead photo analysisdavidgomadza anti-aging shield (-20 years)
